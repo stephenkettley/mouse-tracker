@@ -6,7 +6,7 @@ body {
     align-items: center;
     height: 100vh;
     font-family: monospace;
-    background-image: linear-gradient(to right, #434343 0%, black 100%);
+    background-image: linear-gradient(to right, #00416a 0%, #E4E5E6 100%);
 }
 
 h1 {
