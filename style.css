@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: monospace;
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
+}
+
+h1 {
+    margin-bottom: 40px;
+    color: white;
+}
+
+.container {
+    text-align: center;
+}
+
+.mouse-container {
+    display: flex;
+    gap: 40px;
+}
+
+.mouse-event {
+    padding: 40px;
+    background-color: rgba(229, 229, 229, 0.6);
+    border-radius: 10px;
+    width: 200px;
+}
+
+p {
+    font-size: 40px;
+    color: white;
+}
