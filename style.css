@@ -34,3 +34,9 @@ p {
     font-size: 40px;
     color: white;
 }
+
+@media (max-width: 700px) {
+    .mouse-container {
+        flex-direction: column;
+    }
+}
